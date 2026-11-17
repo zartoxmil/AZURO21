@@ -1,0 +1,78 @@
+{
+  "bio": [
+    "Streamer et youtubeur, je propose du divertissement en live sur Twitch et en vidéo sur YouTube.",
+    "En live sur Twitch tous les soirs, 7 jours sur 7. Retrouvez ici tout mon planning pour ne rien rater."
+  ],
+  "donate": [],
+  "goal": {
+    "current": 0,
+    "label": "",
+    "target": 0
+  },
+  "liveUrl": "https://www.twitch.tv/azuro21",
+  "schedule": [
+    {
+      "day": 3,
+      "dur": "ou 20 h selon le soir",
+      "time": "19:00",
+      "title": "Live sur Twitch"
+    },
+    {
+      "day": 4,
+      "dur": "",
+      "time": "13:00",
+      "title": "découverte  GTA6"
+    },
+    {
+      "day": 5,
+      "dur": "ou 20 h selon le soir",
+      "time": "19:00",
+      "title": "GTA6"
+    },
+    {
+      "day": 6,
+      "dur": "ou 20 h selon le soir",
+      "time": "19:00",
+      "title": "Live sur Twitch"
+    },
+    {
+      "day": 0,
+      "dur": "ou 20 h selon le soir",
+      "time": "19:00",
+      "title": "Live sur Twitch"
+    }
+  ],
+  "socials": [
+    {
+      "handle": "azuro21",
+      "name": "Twitch",
+      "url": "https://www.twitch.tv/azuro21"
+    },
+    {
+      "handle": "@azurottv",
+      "name": "YouTube",
+      "url": "https://www.youtube.com/@azurottv"
+    },
+    {
+      "handle": "@azuro211",
+      "name": "YouTube (2e chaîne)",
+      "url": "https://www.youtube.com/@azuro211"
+    },
+    {
+      "handle": "@azuro0",
+      "name": "Instagram",
+      "url": "https://www.instagram.com/azuro0"
+    },
+    {
+      "handle": "@azuro021",
+      "name": "TikTok",
+      "url": "https://www.tiktok.com/@azuro021"
+    },
+    {
+      "handle": "@azuro021",
+      "name": "X",
+      "url": "https://x.com/azuro021"
+    }
+  ],
+  "tagline": "Streamer et youtubeur : du divertissement à suivre en live et en vidéo."
+}
